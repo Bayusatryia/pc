@@ -7,7 +7,7 @@ const daftarvip = (prefix) => {
 
 *JIKA INGIN DAFTAR VIP :*
 *Chat Owner BOT :*
-_wa.me/6283820776095 atau ketik *${prefix}owner*
+_wa.me/6281392365930 atau ketik *${prefix}owner*
 
 *NOTE*
 
