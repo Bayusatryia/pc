@@ -78,7 +78,7 @@ const vcard = 'BEGIN:VCARD\n' // JAN DI UBAH
             + 'VERSION:3.0\n' // JAN DI UBAH
             + 'FN: Rizky Pratama\n' // NAMA KONTAK OWNER
             + 'ORG:Owner Zky Bot;\n' // NAMA CREATOR
-            + 'TEL;type=CELL;type=VOICE;waid=6283820776095:+62 838-2077-6095\n' // NOMER HP LU
+            + 'TEL;type=CELL;type=VOICE;waid=6281392365930:+62 813-9236-5930\n' // NOMER HP LU
             + 'END:VCARD'
 prefix = '#'
 blocked = ['6289655478810@s.whatsapp.net']
