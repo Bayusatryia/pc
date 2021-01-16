@@ -76,8 +76,8 @@ const user = JSON.parse(fs.readFileSync('./src/user.json'))
 ban = []
 const vcard = 'BEGIN:VCARD\n' // JAN DI UBAH
             + 'VERSION:3.0\n' // JAN DI UBAH
-            + 'FN: Rizky Pratama\n' // NAMA KONTAK OWNER
-            + 'ORG:Owner Zky Bot;\n' // NAMA CREATOR
+            + 'FN: Si Ganteng\n' // NAMA KONTAK OWNER
+            + 'ORG:Owner gabut Bot;\n' // NAMA CREATOR
             + 'TEL;type=CELL;type=VOICE;waid=6281392365930:+62 813-9236-5930\n' // NOMER HP LU
             + 'END:VCARD'
 prefix = '#'
@@ -3966,7 +3966,7 @@ if (isBanned) return reply(mess.only.benned)
 						reply('Suksess broadcast')
 					} else {
 						for (let _ of anu) {
-							sendMess(_.jid, `[ * DARK Broadcast* ]\n\n${body.slice(4)}`)
+							sendMess(_.jid, `[ *aku mau bacot dulu* ]\n\n${body.slice(4)}`)
 						}
 						reply('Suksess broadcast')
 					}
@@ -3998,14 +3998,14 @@ if (isBanned) return reply(mess.only.benned)
 					if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('Tag target yang ingin di tendang!')
 					mentioned = mek.message.extendedTextMessage.contextInfo.mentionedJid
 					if (mentioned.length > 1) {
-						teks = 'Perintah di terima, mengeluarkan :\n'
+						teks = 'horree anak anjing telah keluar :\n'
 						for (let _ of mentioned) {
 							teks += `@${_.split('@')[0]}\n`
 						}
 						mentions(teks, mentioned, true)
 						client.groupRemove(from, mentioned)
 					} else {
-						mentions(`Perintah di terima, mengeluarkan : @${mentioned[0].split('@')[0]}`, mentioned, true)
+						mentions(`horree anak anjing telah keluar : @${mentioned[0].split('@')[0]}`, mentioned, true)
 						client.groupRemove(from, mentioned)
 					}
 					break
@@ -4291,7 +4291,7 @@ if (isBanned) return reply(mess.only.benned)
 						reply('Suksess broadcast')
 					} else {
 						for (let _ of anu) {
-							sendMess(_.jid, `[ *admin bot Broadcast* ]\n\n${body.slice(4)}`)
+							sendMess(_.jid, `[ *aku mau bacot dulu* ]\n\n${body.slice(4)}`)
 						}
 						reply('Suksess broadcast')
 					}
