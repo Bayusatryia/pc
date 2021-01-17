@@ -22,6 +22,6 @@ const ownermenu = (prefix) => {
 ╰─⊱ *${prefix}turnoff*
 ╰─⊱  *${prefix}getses*
 ║
-╚═〘  Zky BOT 〙`
+╚═〘  gabut BOT 〙`
 }
 exports.ownermenu = ownermenu
