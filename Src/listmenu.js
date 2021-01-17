@@ -226,9 +226,9 @@ const listmenu = (prefix) => {
 ║
 ╚═ Ketik *${prefix}info* untuk melihat list informasi tentang bot
        Ketik *${prefix}owner* untuk melihat kontak owner
-         Mau donasi? 0895412849912 [ Gopay ]
+         Mau donasi? +62 813-9236-5930 [ pulsa Telkomsel ]
          Jika tidak ingin donasi bantu Follow Ig aja kak 
          _instagram.com/zky.husky
-    _* Zky BOT© 2021*_`
+    _*gabut BOT© 2021*_`
 }
 exports.listmenu = listmenu
