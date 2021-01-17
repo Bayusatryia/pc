@@ -16,6 +16,6 @@ const funmenu = (prefix) => {
 ╠➥ *${prefix}gtts* [text]
 ╠➥ *${prefix}tts*
 ║
-╚═〘 Rizky BOT 〙`
+╚═〘 gabut BOT 〙`
 }
 exports.funmenu = funmenu
