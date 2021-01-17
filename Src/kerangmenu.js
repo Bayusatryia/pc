@@ -11,6 +11,6 @@ const kerangmenu = (prefix) => {
 ╰─⊱ *${prefix}cantikcek*
 ╰─⊱ *${prefix}persengay*
 ║
-╚═〘  Zky BOT 〙`
+╚═〘  gabut BOT 〙`
 }
 exports.kerangmenu = kerangmenu
