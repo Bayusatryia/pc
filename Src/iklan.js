@@ -23,7 +23,7 @@ const iklan = () => {
 ╠➥ *HARAP HUBUNGI NOMOR DIBAWAH :*
 ╠➥ *wa.me/6283820776095*
 ║
-╚═〘  Zky BOT 〙
+╚═〘  gabut BOT 〙
 `
 }
 exports.iklan = iklan
