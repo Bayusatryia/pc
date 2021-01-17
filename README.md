@@ -70,8 +70,8 @@ Ket: Aktiv 24 jam
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`Youtube Admin`](MAS bayusatryia)
-* [`Instagram Admin`](https://instagram.com/_maslent11)
+* [`Youtube Admin`] (bayusatryia)
+* [`Instagram Admin`](https://instagram.com/story.anime45)
 * [`WhatsApp Admin `](https://wa.me/+628165466368)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
