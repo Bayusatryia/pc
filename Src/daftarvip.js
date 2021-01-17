@@ -12,6 +12,6 @@ _wa.me/6281392365930 atau ketik *${prefix}owner*
 *NOTE*
 
 *GRUP WHATSAPP BOT :*
-_https://chat.whatsapp.com/J1BPOmlwapvCZdyGGcpAGf_ `
+*_https://chat.whatsapp.com/DhRVodDKpY5EBpE65SCFMF_* `
 }
 exports.daftarvip = daftarvip
