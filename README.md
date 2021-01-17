@@ -10,7 +10,7 @@
 <a href="#"><img title="😎MASLENT😎" src="https://img.shields.io/badge/ICHI-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/ichi-lent"><img title="Author" src="https://img.shields.io/badge/AUTHOR-MASLENT GANS-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/ichi-lent"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Gabut bos-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://www.codefactor.io/repository/github/A187ID/AR15BOT"><img title="Rating" src="https://www.codefactor.io/repository/github/ichi-lent/ichi/badge/main"></a>
