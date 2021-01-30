@@ -193,18 +193,18 @@ async function starts() {
 					benned: 'Anda Ke Band Silahkan Hubungi Owner Agar Membuka Band Anda',
 					ownerG: '[❗] Lu spe owner? ini fitur khusus owner njierrr ❌',
 					ownerB: '[❗] Lu spe owner? ini fitur khusus owner njierrr ❌',
-					userB: `──「 DAFTAR 」──\nHalo gan !\nKamu belum Terdaftar didalam database, \n\nCommand : ${prefix}daftar nama|umur\nContoh : ${prefix}daftar Rizky|16\n\n──「 Zky BOT 」──`,
+					userB: `──「 DAFTAR 」──\nHalo gan !\nKamu belum Terdaftar didalam database, \n\nCommand : ${prefix}daftar nama|umur\nContoh : ${prefix}daftar Rans|16\n\n──「 rans BOT 」──`,
 					admin: '[❗] Perintah ini hanya bisa di gunakan oleh admin group! ❌',
 					Badmin: ' [❗] Perintah ini hanya bisa di gunakan ketika bot menjadi admin! ❌',
 				}
 			}
 
 			const botNumber = client.user.jid
-			const ownerNumber = ["6281392365930@s.whatsapp.net"] // replace this with your number
-			const mod = [ownerNumber,"6281392365930@s.whatsapp.net"]
-			const adminbotnumber = ["6281392365930@s.whatsapp.net"]
-			const frendsowner = ["6281392365930@s.whatsapp.net"]
-			const premium = ["6281392365930@s.whatsapp.net"]
+			const ownerNumber = ["6282225491446@s.whatsapp.net"] // replace this with your number
+			const mod = [ownerNumber,"6282225491446@s.whatsapp.net"]
+			const adminbotnumber = ["6282225491446@s.whatsapp.net"]
+			const frendsowner = ["6282225491446@s.whatsapp.net"]
+			const premium = ["6282225491446@s.whatsapp.net"]
 			const isGroup = from.endsWith('@g.us')
 			const totalchat = await client.chats.all()
 			const sender = isGroup ? mek.participant : mek.key.remoteJid
