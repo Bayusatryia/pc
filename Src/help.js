@@ -7,10 +7,10 @@ const help = (prefix) => {
 ╰─⊱ 𝑂𝑊𝑁𝐸𝑅 : Dea Ananda
 ╰─⊱ wa.me/6281392365930
 ╰─⊱ 𝐵𝑖𝑔 𝑆𝑝𝑒𝑐𝑖𝑎𝑙 𝑡𝑜
-╰─⊱ 𝑋𝑃𝑇𝑁
-╰─⊱ 𝑅𝐼𝑆𝐾𝑌
-╰─⊱ 𝐴𝐿𝑃𝐻𝐴
-╰─⊱ 𝐷𝐸𝑁𝐼𝑆
+╰─⊱ *BAYU*
+╰─⊱ RANS
+╰─⊱ DEA
+╰─⊱ PUTRI*
 ║
 ▣═─⊱【 𝑴𝑬𝑵𝑼 𝑺𝑰𝑴𝑷𝑳𝑬 】⊰─══
 ║ 
@@ -55,8 +55,8 @@ const help = (prefix) => {
 ▣══─⊱ 【 𝑅𝑈𝑁𝑇𝐼𝑀𝐸 】 ⊰─══
 ║
 ╰─⊱ *STATUS BOT: Online*
-╭─⊱ BOT ON: *24JAM *
+╭─⊱ BOT ON: *kalo owner online *
 ║
-▣══─ ⸨ gabut BOT ⸩ ─══▣`
+▣══─ ⸨ RANS BOT ⸩ ─══▣`
 }
 exports.help = help
